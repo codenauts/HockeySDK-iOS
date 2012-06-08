@@ -227,4 +227,4 @@ typedef enum {
  *
  * @sa PLCrashReporter::setCrashCallbacks:
  */
- 
+
